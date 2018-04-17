@@ -1,0 +1,4 @@
+# Slapper hit delay in seconds
+delay: 0.5
+# Message to be displayed as a tip when a player attempts to hit a Slapper too quickly
+message: "§aYou're hitting a Slapper too fast!"
